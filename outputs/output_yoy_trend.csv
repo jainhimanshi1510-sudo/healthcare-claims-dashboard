@@ -1,0 +1,81 @@
+year,cpt_code,procedure_name,total_services,avg_payment,total_spend
+2020,27447,Total knee replacement,761233.0,6716.53,5124188766.0
+2020,29881,Knee arthroscopy with meniscectomy,716013.0,1799.01,1286630252.0
+2020,31622,"Bronchoscopy, diagnostic",726900.0,1346.51,985320132.0
+2020,74177,CT abdomen and pelvis with contrast,740968.0,1283.15,947176435.0
+2020,70553,MRI brain with contrast,693619.0,1054.99,728463657.0
+2020,43239,Upper GI endoscopy with biopsy,742624.0,908.08,674546025.0
+2020,45378,"Colonoscopy, diagnostic",720613.0,908.87,652370204.0
+2020,93306,Echocardiography with doppler,686146.0,660.5,450125285.0
+2020,99285,Emergency dept visit - high complexity,709226.0,529.53,373541648.0
+2020,99291,"Critical care, first 30-74 minutes",694151.0,325.69,225029389.0
+2020,99223,Initial hospital care - high complexity,733261.0,241.91,174896798.0
+2020,99214,"Office visit - established patient, moderate complexity",678848.0,96.14,65234237.0
+2020,90837,"Psychotherapy, 60 minutes",695363.0,79.72,55066399.0
+2020,99232,"Subsequent hospital care, per day",673199.0,79.73,53413504.0
+2020,99213,"Office visit - established patient, low complexity",726835.0,65.72,47101860.0
+2020,71046,"Chest X-ray, 2 views",688667.0,52.51,35784529.0
+2020,97110,Therapeutic exercise,689955.0,40.5,27855204.0
+2020,80053,Comprehensive metabolic panel,699800.0,23.28,16459408.0
+2020,85025,Complete blood count (CBC),694879.0,20.39,14263445.0
+2020,36415,Routine venipuncture,683627.0,9.99,6857006.0
+2021,27447,Total knee replacement,722240.0,6582.61,4754557762.0
+2021,29881,Knee arthroscopy with meniscectomy,677457.0,1796.41,1221766470.0
+2021,74177,CT abdomen and pelvis with contrast,687124.0,1334.5,918437650.0
+2021,31622,"Bronchoscopy, diagnostic",672201.0,1314.86,882996494.0
+2021,70553,MRI brain with contrast,741411.0,1059.8,799148229.0
+2021,45378,"Colonoscopy, diagnostic",725652.0,921.57,662976416.0
+2021,43239,Upper GI endoscopy with biopsy,704459.0,911.16,647097381.0
+2021,93306,Echocardiography with doppler,679052.0,666.92,451343763.0
+2021,99285,Emergency dept visit - high complexity,715827.0,521.97,375248598.0
+2021,99291,"Critical care, first 30-74 minutes",708265.0,319.8,224734887.0
+2021,99223,Initial hospital care - high complexity,705612.0,239.22,167814831.0
+2021,99214,"Office visit - established patient, moderate complexity",653913.0,94.95,61768173.0
+2021,99232,"Subsequent hospital care, per day",727249.0,82.26,59714354.0
+2021,90837,"Psychotherapy, 60 minutes",640700.0,82.28,52714243.0
+2021,99213,"Office visit - established patient, low complexity",689521.0,66.28,45743541.0
+2021,71046,"Chest X-ray, 2 views",692854.0,53.31,37201099.0
+2021,97110,Therapeutic exercise,711968.0,40.96,28971410.0
+2021,80053,Comprehensive metabolic panel,710237.0,23.06,16385594.0
+2021,85025,Complete blood count (CBC),702059.0,20.55,14432293.0
+2021,36415,Routine venipuncture,715171.0,10.02,7213008.0
+2022,27447,Total knee replacement,705443.0,6668.29,4727986058.0
+2022,29881,Knee arthroscopy with meniscectomy,762524.0,1846.83,1434867011.0
+2022,74177,CT abdomen and pelvis with contrast,707689.0,1315.43,934679925.0
+2022,31622,"Bronchoscopy, diagnostic",676425.0,1311.79,891269094.0
+2022,70553,MRI brain with contrast,725998.0,1056.27,766853981.0
+2022,45378,"Colonoscopy, diagnostic",716969.0,919.68,662584863.0
+2022,43239,Upper GI endoscopy with biopsy,715210.0,892.83,629590008.0
+2022,93306,Echocardiography with doppler,686629.0,654.57,446457134.0
+2022,99285,Emergency dept visit - high complexity,693260.0,522.07,361816706.0
+2022,99291,"Critical care, first 30-74 minutes",676357.0,324.16,220623540.0
+2022,99223,Initial hospital care - high complexity,758797.0,245.49,189212571.0
+2022,99214,"Office visit - established patient, moderate complexity",704860.0,96.5,67795436.0
+2022,90837,"Psychotherapy, 60 minutes",683377.0,81.83,56401377.0
+2022,99232,"Subsequent hospital care, per day",688228.0,79.24,54142886.0
+2022,99213,"Office visit - established patient, low complexity",705097.0,67.87,48232487.0
+2022,71046,"Chest X-ray, 2 views",723558.0,52.69,37681187.0
+2022,97110,Therapeutic exercise,712990.0,40.3,28783002.0
+2022,80053,Comprehensive metabolic panel,715520.0,23.36,16645594.0
+2022,85025,Complete blood count (CBC),749728.0,20.08,15276845.0
+2022,36415,Routine venipuncture,717874.0,9.98,7135329.0
+2023,27447,Total knee replacement,662177.0,6744.87,4410474552.0
+2023,29881,Knee arthroscopy with meniscectomy,704673.0,1819.68,1284594814.0
+2023,74177,CT abdomen and pelvis with contrast,724140.0,1320.37,958427793.0
+2023,31622,"Bronchoscopy, diagnostic",714890.0,1281.61,916145440.0
+2023,70553,MRI brain with contrast,698207.0,1052.98,737369964.0
+2023,43239,Upper GI endoscopy with biopsy,689799.0,930.93,643763951.0
+2023,45378,"Colonoscopy, diagnostic",705997.0,897.67,629687783.0
+2023,93306,Echocardiography with doppler,750286.0,671.2,507111623.0
+2023,99285,Emergency dept visit - high complexity,690785.0,519.44,359711359.0
+2023,99291,"Critical care, first 30-74 minutes",726019.0,322.49,233235429.0
+2023,99223,Initial hospital care - high complexity,708710.0,244.13,172458916.0
+2023,99214,"Office visit - established patient, moderate complexity",704971.0,96.02,67710248.0
+2023,99232,"Subsequent hospital care, per day",717812.0,81.79,58617628.0
+2023,90837,"Psychotherapy, 60 minutes",670973.0,80.62,54005265.0
+2023,99213,"Office visit - established patient, low complexity",673397.0,66.53,44714822.0
+2023,71046,"Chest X-ray, 2 views",724708.0,52.41,38118188.0
+2023,97110,Therapeutic exercise,690359.0,40.6,28172433.0
+2023,80053,Comprehensive metabolic panel,703551.0,23.25,16394823.0
+2023,85025,Complete blood count (CBC),660600.0,20.16,13439036.0
+2023,36415,Routine venipuncture,702118.0,10.15,7131098.0

@@ -1,0 +1,37 @@
+cpt_code,procedure_name,specialty,tot_srvcs,tot_benes,services_per_beneficiary,utilization_rank
+71046,"Chest X-ray, 2 views",Cardiology,1158,331,3.5,1
+90837,"Psychotherapy, 60 minutes",Cardiology,1742,498,3.5,2
+99291,"Critical care, first 30-74 minutes",Cardiology,1616,462,3.5,3
+27447,Total knee replacement,Emergency Medicine,1410,403,3.5,1
+99285,Emergency dept visit - high complexity,Emergency Medicine,1539,440,3.5,2
+27447,Total knee replacement,Emergency Medicine,1224,350,3.5,3
+99232,"Subsequent hospital care, per day",Family Practice,1424,407,3.5,1
+45378,"Colonoscopy, diagnostic",Family Practice,1221,349,3.5,2
+93306,Echocardiography with doppler,Family Practice,1588,454,3.5,3
+99214,"Office visit - established patient, moderate complexity",Gastroenterology,1347,385,3.5,1
+93306,Echocardiography with doppler,Gastroenterology,1693,484,3.5,2
+99214,"Office visit - established patient, moderate complexity",Gastroenterology,815,233,3.5,3
+27447,Total knee replacement,General Surgery,1599,457,3.5,1
+99223,Initial hospital care - high complexity,General Surgery,1735,496,3.5,2
+99285,Emergency dept visit - high complexity,General Surgery,654,187,3.5,3
+99213,"Office visit - established patient, low complexity",Internal Medicine,1343,384,3.5,1
+99232,"Subsequent hospital care, per day",Internal Medicine,640,183,3.5,2
+99291,"Critical care, first 30-74 minutes",Internal Medicine,1535,439,3.5,3
+99232,"Subsequent hospital care, per day",Neurology,1011,289,3.5,1
+99214,"Office visit - established patient, moderate complexity",Neurology,1665,476,3.5,2
+99285,Emergency dept visit - high complexity,Neurology,612,175,3.5,3
+71046,"Chest X-ray, 2 views",Orthopedic Surgery,1221,349,3.5,1
+99213,"Office visit - established patient, low complexity",Orthopedic Surgery,1053,301,3.5,2
+99285,Emergency dept visit - high complexity,Orthopedic Surgery,493,141,3.5,3
+27447,Total knee replacement,Physical Therapy,1144,327,3.5,1
+74177,CT abdomen and pelvis with contrast,Physical Therapy,1707,488,3.5,2
+93306,Echocardiography with doppler,Physical Therapy,1602,458,3.5,3
+70553,MRI brain with contrast,Psychiatry,1228,351,3.5,1
+27447,Total knee replacement,Psychiatry,1658,474,3.5,2
+45378,"Colonoscopy, diagnostic",Psychiatry,1420,406,3.5,3
+74177,CT abdomen and pelvis with contrast,Pulmonology,1130,323,3.5,1
+90837,"Psychotherapy, 60 minutes",Pulmonology,675,193,3.5,2
+31622,"Bronchoscopy, diagnostic",Pulmonology,1343,384,3.5,3
+99214,"Office visit - established patient, moderate complexity",Radiology,1469,420,3.5,1
+80053,Comprehensive metabolic panel,Radiology,1458,417,3.5,2
+85025,Complete blood count (CBC),Radiology,881,252,3.5,3

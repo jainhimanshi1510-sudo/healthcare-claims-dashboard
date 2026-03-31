@@ -1,0 +1,13 @@
+specialty,avg_charged,avg_allowed,avg_paid,payment_to_charge_pct
+Neurology,2145.98,1028.82,875.39,40.8
+Orthopedic Surgery,2086.4,984.94,838.38,40.2
+Family Practice,2068.26,976.52,831.21,40.2
+General Surgery,2056.6,970.95,822.82,40.0
+Physical Therapy,2050.59,982.02,836.31,40.8
+Internal Medicine,2025.44,961.98,817.37,40.4
+Gastroenterology,2019.86,962.47,819.93,40.6
+Emergency Medicine,2014.92,951.31,812.2,40.3
+Cardiology,2007.87,951.86,809.97,40.3
+Pulmonology,1988.58,940.39,800.18,40.2
+Psychiatry,1960.74,925.89,785.7,40.1
+Radiology,1904.08,911.16,773.76,40.6

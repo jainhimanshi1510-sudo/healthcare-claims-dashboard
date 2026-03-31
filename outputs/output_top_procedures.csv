@@ -1,0 +1,21 @@
+cpt_code,procedure_name,total_services,avg_payment,total_spend
+27447,Total knee replacement,2851093.0,6677.8,19017207138.0
+29881,Knee arthroscopy with meniscectomy,2860667.0,1816.05,5227858547.0
+74177,CT abdomen and pelvis with contrast,2859921.0,1312.88,3758721804.0
+31622,"Bronchoscopy, diagnostic",2790416.0,1313.68,3675731161.0
+70553,MRI brain with contrast,2859235.0,1056.05,3031835832.0
+45378,"Colonoscopy, diagnostic",2869231.0,912.05,2607619265.0
+43239,Upper GI endoscopy with biopsy,2852092.0,910.58,2594997365.0
+93306,Echocardiography with doppler,2802113.0,663.45,1855037805.0
+99285,Emergency dept visit - high complexity,2809098.0,523.31,1470318311.0
+99291,"Critical care, first 30-74 minutes",2804792.0,323.04,903623244.0
+99223,Initial hospital care - high complexity,2906380.0,242.68,704383115.0
+99214,"Office visit - established patient, moderate complexity",2742592.0,95.91,262508095.0
+99232,"Subsequent hospital care, per day",2806488.0,80.79,225888371.0
+90837,"Psychotherapy, 60 minutes",2690413.0,81.1,218187284.0
+99213,"Office visit - established patient, low complexity",2794850.0,66.59,185792710.0
+71046,"Chest X-ray, 2 views",2829787.0,52.73,148785003.0
+97110,Therapeutic exercise,2805272.0,40.59,113782049.0
+80053,Comprehensive metabolic panel,2829108.0,23.24,65885419.0
+85025,Complete blood count (CBC),2807266.0,20.29,57411620.0
+36415,Routine venipuncture,2818790.0,10.03,28336441.0
